@@ -12,7 +12,12 @@ package i.d;
 public class Aser {
     
     
+
     public void restas(){
         System.out.println("Sergio");
+}
+    public void nuevoAser(){
+        System.out.println("Nuevo Aser");
+
     }
 }
