@@ -18,5 +18,8 @@ public class Aser {
 }
     public void nuevoAser(){
         System.out.println("Nuevo Aser");
+        System.out.println("Aser - Cambio 1");
+        System.out.println("Aser - Cambio 2");
+        System.out.println("Aser - Cambio 3");
     }
 }
