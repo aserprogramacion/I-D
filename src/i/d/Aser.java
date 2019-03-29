@@ -10,13 +10,14 @@ package i.d;
  * @author usuario
  */
 public class Aser {
-    
-    
 
-    public void restas(){
+    public void restas() {
         System.out.println("Sergio");
-}
-    public void nuevoAser(){
-        System.out.println("Nuevo Aser");
+    }
+
+    public void nuevoAser() {
+        System.out.println("Aser - Cambio 1");
+        System.out.println("Aser - Cambio 2");
+        System.out.println("Aser - Cambio 3");
     }
 }
