@@ -11,4 +11,8 @@ package i.d;
  */
 public class Aser {
     
+    
+    public void nuevoAser(){
+        System.out.println("Nuevo Aser");
+    }
 }
