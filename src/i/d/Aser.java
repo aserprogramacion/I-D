@@ -20,4 +20,7 @@ public class Aser {
         System.out.println("Aser - Cambio 2");
         System.out.println("Aser - Cambio 3");
     }
+    public void funcionalidad1(){
+        System.out.println("Esta es la funcionalidad 1");
+    }
 }
